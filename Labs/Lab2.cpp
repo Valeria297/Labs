@@ -30,7 +30,7 @@
 //	std::cout << "\nThis is the second level task!" << std::endl;
 //
 //	double a, b;
-//	std::cout << "Input a and b value: " << std::endl;
+//	std::cout << "Input a and b values: " << std::endl;
 //	std::cin >> a >> b;
 //	while (std::cin.fail()) {
 //		std::cin.clear();
@@ -44,7 +44,7 @@
 //	while (std::cin.fail()) {
 //		std::cin.clear();
 //		std::cin.ignore(999, '\n');
-//		std::cout << "Input correct data please: ";
+//		std::cout << "Input the correct data please: ";
 //		std::cin >> z;
 //	}
 //
@@ -99,7 +99,7 @@
 //	while (std::cin.fail()) {
 //		std::cin.clear();
 //		std::cin.ignore(999, '\n');
-//		std::cout << "Input correct a, x and y please: ";
+//		std::cout << "Input the correct a, x and y please: ";
 //		std::cin >> a2 >> x2 >> y2;
 //	}
 //
