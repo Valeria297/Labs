@@ -33,7 +33,7 @@
 //	std::cout << "Min = " << min << ", Max = " << max << "." << std::endl;
 //
 //	//Second level
-//	std::cout << "\nThis is the first level task!" << std::endl;
+//	std::cout << "\nThis is the second level task!" << std::endl;
 //
 //	int n1; double a1, b1, h1, r, s; n1 = 0; 
 //	std::cout << "Input a, b, h values please: " << std::endl;
