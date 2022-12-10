@@ -39,9 +39,15 @@
     <ClCompile Include="FunctionsLab7.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Lab8.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FunctionsLab7.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionsLab8.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
